@@ -57,7 +57,7 @@
 - 🔭 I’m currently working on course recommender system
 - 🌱 I’m currently learning many new stuffs
 - 👯 I’m looking to collaborate on some more projects
-- 🤔 I’m looking for help with how to wake up early
+- 🤔 I’m looking for help on how to wake up early
 - 💬 Ask me about my Favourite good
 - 📫 How to reach me: utkarshsharma650@gmail.com
 - ⚡ Fun fact: ...
