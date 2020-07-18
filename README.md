@@ -2,12 +2,6 @@
 
 <img src="https://github.com/utkarshsharma1/utkarshsharma1/blob/master/background.png">
 
-<!--
-**utkarshsharma1/utkarshsharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
 ### 📢 Find me elsewhere
 
 <p align="center">
@@ -46,7 +40,6 @@
 
 *************
 
-<br />
 
 ### - Languages and Tools...
 
