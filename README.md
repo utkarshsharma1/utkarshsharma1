@@ -5,25 +5,20 @@
 -->
 
 <br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Utkarsh Sharma| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+
+<a href="https://www.linkedin.com/in/utkarshsharma123" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hemant.gz/">
+<a href="https://www.instagram.com/utkarshsharma1" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://twitter.com/sharma_utkarsh6" target="_blank">
+  <img align="left" alt="Utkarsh Sharma| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://www.hackerearth.com/@utkarshsharma650" target="_blank">
+  <img align="left" alt=" Hackerearth" width="22px" src="https://media-fastly.hackerearth.com/media/companies/e8e3f0f-he.png" />
 </a>
-<a href="https://www.codechef.com/users/hemant_x">
+<a href="https://www.codechef.com/users/utk13arsh" target="_blank">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
