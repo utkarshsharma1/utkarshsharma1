@@ -33,27 +33,6 @@
 <hr>
 
 
-<br/>
-
-<a href="https://www.linkedin.com/in/utkarshsharma123" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/utkarshsharma1" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/sharma_utkarsh6" target="_blank">
-  <img align="left" alt="Utkarsh Sharma| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.hackerearth.com/@utkarshsharma650" target="_blank">
-  <img align="left" alt=" Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
-</a>
-<a href="https://www.codechef.com/users/utk13arsh" target="_blank">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<br />
-<br/>
-
 **I am Into , 🙏**
 
 **Machine Learning, Deep Learning, Data Science, Competetive Programming, & much more 😼**
