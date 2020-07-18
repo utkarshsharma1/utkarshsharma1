@@ -24,6 +24,10 @@
   <a href="https://www.codechef.com/users/utk13arsh" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>
+  
+  <a href="mailto:utkarshsharma650@gmail.com" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+  </a>  
 </p>
 
 <hr>
@@ -47,18 +51,13 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="data science" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-
 
 </p>
 
-I am just an another machine learning, data science enthusiast.
-
-- 🔭 I’m currently working on course recommender systm
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on course recommender system
+- 🌱 I’m currently learning many new stuffs
+- 👯 I’m looking to collaborate on some more projects
+- 🤔 I’m looking for help with how to wake up early
+- 💬 Ask me about my Favourite good
+- 📫 How to reach me: utkarshsharma650@gmail.com
 - ⚡ Fun fact: ...
