@@ -22,11 +22,11 @@
   </a>  
 
    <a href="https://www.hackerearth.com/@utkarshsharma650" target="_blank">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/hackerEarth.svg" alt="Hackerearth" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="Hackerearth" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.codechef.com/users/utk13arsh" target="_blank">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
