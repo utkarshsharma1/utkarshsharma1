@@ -1,5 +1,7 @@
 ### Hi there, I'm Utkarsh! 👋.
 
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/background.png">
+
 <!--
 **utkarshsharma1/utkarshsharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
