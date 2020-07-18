@@ -28,10 +28,7 @@
 
 <hr>
 
-
-**I am Into , 🙏**
-
-**Machine Learning, Deep Learning, Data Science, Competetive Programming, & much more 😼**
+**I am just an another machine learning, data science enthusiast. 😼**
 
 <br/>
 
