@@ -22,10 +22,12 @@
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 <br />
 
+[![Github Stats By Utkarsh](https://github-readme-stats.vercel.app/api?username=utkarshsharma1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/utkarshsharma1/github-readme-stats)
+
+*************
 
 I am just an another machine learning, data science enthusiast.
 
