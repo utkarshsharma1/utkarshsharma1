@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://www.codechef.com/users/utk13arsh" target="_blank">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
